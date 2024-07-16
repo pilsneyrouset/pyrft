@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pyrft
+Version: 0.0.1
+Summary: Python Toolbox of Functions for Analysing Random fields
+Home-page: https://github.com/sjdavenport/pyrft/
+Download-URL: https://github.com/sjdavenport/pyrft/
+Author: Samuel DAVENPORT
+Author-email: samuel.davenport@math.univ-toulouse.fr
+License: MIT
+Keywords: Random field Theory,fMRI,Post-hoc inference
+Requires-Python: >=3
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: sanssouci
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: scikit-image
+
+This code is a deprecated version of this repository. Please visit [gith](https://github.com/sjdavenport/pyperm)https://github.com/sjdavenport/pyperm for the latest version.
